@@ -44,6 +44,14 @@ a {
 	border-bottom: 2px solid transparent;
 }
 
+#reset {
+	font-family: "Raleway", sans-serif;
+	color: #f15b31;
+	font-weight: 800;
+	font-size: 30px;
+
+}
+
 a:hover {
 	border-color: white;
 }
